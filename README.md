@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img align="top" src="https://skillicons.dev/icons?i=androidstudio,cpp,java,python,github,mysql,html,css&perline=4" />
+    <img align="top" src="https://skillicons.dev/icons?i=androidstudio,cpp,java,kotlin,python,github,mysql,html,css&perline=4" />
   </a>
 </p>
